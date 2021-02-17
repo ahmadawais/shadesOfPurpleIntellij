@@ -235,6 +235,15 @@
       }
     },
 
+    "CompletionPopup": {
+      "foreground": "#A599E9",
+      "matchForeground": "#9EFFFF"
+    },
+
+    "Label": {
+      "infoForeground": "#A599E966"
+    },
+
     "Window.border": "1,1,1,1,#2D2B55"
   }
 }
